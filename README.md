@@ -16,9 +16,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 5) Once the repo is cloned, you need to do two things: <br />
 
-          i) Create a new branch by issuing the command: git checkout -b new_branch <br />
+          i) Create a new branch by issuing the command: git checkout -b new_branch 
 
-          ii) Create a new remote for the upstream repo with the command: git remote add upstream https://github.com/choudharyNeera/diceGame.git <br />
+          ii) Create a new remote for the upstream repo with the command: git remote add upstream https://github.com/choudharyNeera/diceGame.git
 
   In this case, "upstream repo" refers to the original repo you created your fork from. <br />
 
